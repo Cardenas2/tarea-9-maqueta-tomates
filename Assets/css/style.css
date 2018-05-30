@@ -5,8 +5,18 @@ body{
 .principal{
 	background-color: red;
 	padding: 3em;
-	text-align: center
+
+	text-align: center;
+	
+	font-family: 'Open Sans', sans-serif;
 }
 .principal__title{
 	color:white;
+}
+.principal__title--bold{
+	text-transform: uppercase;
+	font-weight: 700;
+}
+img{
+	width: 200px;
 }
